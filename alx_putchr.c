@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * alx_putchr - print a character
- * @a: character input
+ * putchr - print a character
+ * @a: char input
  * Return: 1
  */
 int alx_putchr(char a)
